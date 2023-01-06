@@ -6,7 +6,7 @@ Kiratech Frontend Assessment that displays users and its details
 ```bash
 $ npm install -g quasar-cli
 $ git clone https://github.com/yensiang/Users_Kiratech.git
-$ cd quasar-cloud-demo
+$ cd Users_Kiratech
 $ npm install
 $ quasar dev
 ```
