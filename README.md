@@ -3,11 +3,13 @@
 Kiratech Frontend Assessment that displays users and its details
 
 ## How to run project
-npm install -g quasar-cli
-git clone https://github.com/yensiang/Users_Kiratech.git
-cd Users_Kiratech
-npm install
-quasar dev
+```bash
+$ npm install -g quasar-cli
+$ git clone https://github.com/yensiang/Users_Kiratech.git
+$ cd quasar-cloud-demo
+$ npm install
+$ quasar dev
+```
 
 
 ## Install the dependencies
